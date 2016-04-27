@@ -24,5 +24,9 @@
   "maxcomplexity": 10,
   "maxlen": 79,
 
-  "eqnull": true
+  "eqnull": true,
+
+  "browser": true,
+  "devel": true,
+  "node": true
 }
